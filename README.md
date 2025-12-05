@@ -42,6 +42,22 @@ A modular ML toolkit with reusable pipelines for:
 
 ---
 
+### BBC News Article Classification (NLP)
+
+An NLP project using TF-IDF vectorisation and Logistic Regression to classify BBC news articles into topic categories.
+
+Includes:
+
+- TF-IDF preprocessing
+- PDSS random search optimisation
+- GridSearchCV parameter tuning
+- Model evaluation and interpretability
+- Achieved 98.88% test accuracy with strong generalisation.
+
+Repo: [[BBC NLP](https://github.com/MattyHood/Data-Analysis-Projects/tree/main/BBC%20Natural%20Language%20Processing)]
+
+---
+
 ### **Customer Churn Prediction (Classification)**
 End-to-end ML project including:
 

@@ -38,7 +38,7 @@ A modular ML toolkit with reusable pipelines for:
 
 **A real miniature Python library** built to streamline DS workflows.
 
-🔗 **Repo:** [[PDSS](https://github.com/MattyHood/Data-Analysis-Projects/tree/main/PDSS.py)]
+🔗 **Repo:** [[PDSS](https://github.com/MattyHood/PDSS)]
 
 ---
 
@@ -54,7 +54,7 @@ Includes:
 - Model evaluation and interpretability
 - Achieved 98.88% test accuracy with strong generalisation.
 
-Repo: [[BBC NLP](https://github.com/MattyHood/Data-Analysis-Projects/tree/main/BBC%20Natural%20Language%20Processing)]
+Repo: [[BBC NLP](https://github.com/MattyHood/Classification-ML/tree/master/BBC%20Natural%20Language%20Processing)]
 
 ---
 
@@ -66,7 +66,7 @@ End-to-end ML project including:
 - hyperparameter optimisation  
 - business-focused evaluation (recall, ROC-AUC)
 
-**Repo:** [[Customer Churn](https://github.com/MattyHood/Data-Analysis-Projects/tree/main/Customer%20Churn%20-%20Kaggle)]
+**Repo:** [[Customer Churn](https://github.com/MattyHood/Classification-ML/tree/master/Customer%20Churn%20-%20Kaggle)]
 
 ---
 
@@ -81,7 +81,7 @@ Includes:
 - regression diagnostics  
 - model evaluation
 
-**Repo:** [[WW2 Weather](https://github.com/MattyHood/Data-Analysis-Projects/tree/main/WW2%20Weather)]
+**Repo:** [[WW2 Weather](https://github.com/MattyHood/Regression-ML/tree/master/WW2%20Weather)]
 
 ---
 
@@ -95,7 +95,7 @@ A Python automation pipeline that:
 
 Inspired by a real NHS operational workflow.
 
-🔗 **Repo:** [[Python ETL](https://github.com/MattyHood/Data-Analysis-Projects/tree/main/Python%20Email%20ETL)]
+🔗 **Repo:** [[Python ETL](https://github.com/MattyHood/Python-Email-ETL)]
 
 ---
 
